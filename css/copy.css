@@ -89,6 +89,16 @@ h1, p {
     font-weight: 200;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
 }
+
+.header {
+    padding: 0 0.625rem;
+    margin-bottom: 1.875rem;
+}
+
+.clue {
+
+}
+
 label {
   display: flex;
   align-items: center;
