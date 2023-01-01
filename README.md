@@ -1,4 +1,6 @@
 # Survey-Form
 Survey Form - Free Code Camp
-Free Code Camp's (New) Responsive Web Design
-First Certification Project
+
+This is one of the required projects to earn your certification.
+
+For this project, you will build a survey form to collect data from your users.
